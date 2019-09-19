@@ -1,4 +1,3 @@
-from bitstring import BitArray
 import sys
 
 s = sys.stdin.read() # f.readline()
