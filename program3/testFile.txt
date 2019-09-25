@@ -1,0 +1,16 @@
+d---r--rwx 2 jgourd jgourd 4K Jan 03 20:57 0fd1b45f22e18b3
+-r-xrw--w- 1 jgourd jgourd 0 Jan 03 20:57 17c455d90e49
+-rw--w-r-x 1 jgourd jgourd 0 Jan 03 20:57 302289542768697c
+-rw---x--- 1 jgourd jgourd 0 Jan 03 20:57 4bdf419390d83b860cec
+--wxr-xrwx 1 jgourd jgourd 0 Jan 03 20:57 51451ddb647ff3566601f232
+d-w---xr-- 2 jgourd jgourd 4K Jan 03 20:57 6e8dd5f0924ce30b35aeaed9
+d-wxrw--w- 2 jgourd jgourd 4K Jan 03 20:57 70a8cbb30
+dr--r-x-w- 2 jgourd jgourd 4K Jan 03 20:57 79bf30d265cbd436079e
+-rwxrwx--x 1 jgourd jgourd 0 Jan 03 20:57 81052541de641ff1ed7ca40
+d-w-----wx 2 jgourd jgourd 4K Jan 03 20:57 a8b18ffb171e161c753ab8d
+-rw-rwxrw- 1 jgourd jgourd 0 Jan 03 20:57 c52eda933ff95be8f914eaf62
+-r-x-----x 1 jgourd jgourd 0 Jan 03 20:57 daf9509999adb4f6e6b49c7e91
+d---rwxr-- 2 jgourd jgourd 4K Jan 03 20:57 f35c8e8ed0fb8a609
+--wxrw--w- 1 jgourd jgourd 0 Jan 03 20:57 f4ed4ab4e61c850de968
+-rwxrwx-w- 1 jgourd jgourd 0 Jan 03 20:57 f59a77545fe6d10
+---x------ 1 jgourd jgourd 0 Jan 03 20:57 fce47615d2
