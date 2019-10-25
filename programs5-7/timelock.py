@@ -52,7 +52,5 @@ for i in md5: # Parses through hash
 
 #print(md5)
 
-code = Alpha[:2] + Num[-1] + Num[-2]
-if code != oldCode:
-    print(code)  # First 2 letters and last 2 numbers
-    oldCode = code
+print(Alpha[:2] + Num[-1] + Num[-2])
+
